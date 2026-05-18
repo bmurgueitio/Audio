@@ -1,5 +1,3 @@
-Escuchar audio TTS en Edge
-audio_tts.html
 <!DOCTYPE html>
 <html>
 <head>
